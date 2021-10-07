@@ -1,0 +1,30 @@
+app/
+bootstrap/
+config/
+database/
+public/
+resources/
+routes/
+storage/
+tests/
+vendor/
+*.editorconfig
+*.env
+*.env.example
+*.env.backup
+*.phpunit.result.cache
+
+*.error
+*.styleci.yml
+*artisan
+*composer.json
+*composer.lock
+*package.json
+*phpunit
+*README.md
+
+* phpunit.xml
+*server.php
+* webpack.mix.js
+
+ 
